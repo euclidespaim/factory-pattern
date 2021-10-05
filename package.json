@@ -1,0 +1,24 @@
+{
+  "name": "factoryskeleton",
+  "version": "1.0.0",
+  "description": "factory skeleton project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euclidespaim/factory-pattern.git"
+  },
+  "keywords": [
+    "factory",
+    "pattern",
+    "skeleton"
+  ],
+  "author": "Euclides Paim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euclidespaim/factory-pattern/issues"
+  },
+  "homepage": "https://github.com/euclidespaim/factory-pattern#readme"
+}
