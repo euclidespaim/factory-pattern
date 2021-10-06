@@ -17,6 +17,7 @@
   ],
   "author": "Euclides Paim",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/euclidespaim/factory-pattern/issues"
   },
